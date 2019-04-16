@@ -26,7 +26,7 @@ GO
 |----------|---------------|
 | 單筆Add，單筆SaveChange | 37562      |
 | 單筆Add，一次SaveChange | 14633      |
-| 單筆Add，批次SaveChange | 35784      |
-| 單筆Add，批次SaveChange，Dispose dbContext | 13416      |
+| 批次Add，批次SaveChange | 35784      |
+| 批次Add，批次SaveChange，Dispose dbContext | 13416      |
 
 
